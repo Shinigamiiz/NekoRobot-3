@@ -77,7 +77,7 @@ async def hmm(yes):
     NekoX += f"**⊙ My Uptime :** `{uptime}`\n\n"
     NekoX += f"**⊙ Telethon Version :** `{tlhver}`\n\n"
     NekoX += f"**⊙ Pyrogram Version :** `{pyrover}`\n\n"
-    NekoX += "**⊙ My God :** [वेजीटा यादव](https://t.me/Vegeta_Yadav) "
+    NekoX += "**⊙ My God :** [वेजीटा यादव](https://t.me/Vegeta_Yadav)`\n\n"
     NekoX += f"Thanks For Adding Me In {yes.chat.title} Waakku Waakku 🤗"
     BUTTON = [
         [

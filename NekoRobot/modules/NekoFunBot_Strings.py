@@ -441,7 +441,7 @@ EIGHTBALL = [
     "🟢 You may rely on it.",
 ]
 
-DECIDE = ("Yes.", "No.", "Maybe.")
+DECIDE = ("Ha.", "Nahi.", "Shayad.", "Mujhe Nahi Pata.")
 
 TABLE = (
     "(╯°□°）╯彡 ┻━┻",

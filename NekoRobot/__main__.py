@@ -140,9 +140,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="📓 Help", callback_data="help_back"),
-        InlineKeyboardButton(
-            text="Source 🌐", url="https://telegra.ph/वजट-यदव-11-07"
-        ),
+        
     ],
     [
         InlineKeyboardButton(

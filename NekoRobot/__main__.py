@@ -126,7 +126,7 @@ PM_START_TEXT = """
 *Waakku Waakku, My Father Is Secret Agent Don't Tell Anybody Its a Secret!*
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
 ❍ *Uptime:* `{}`
-❍ *Owner:* 
+❍ *Owner:* [वेजीटा यादव](https://t.me/Vegeta_Yadav)
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
 ➛ Try The Help Button Below To Know My Abilities ××
 """

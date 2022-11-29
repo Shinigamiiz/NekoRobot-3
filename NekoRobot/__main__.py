@@ -126,7 +126,7 @@ PM_START_TEXT = """
 *Waakku Waakku, My Father Is Secret Agent Don't Tell Anybody Its a Secret!*
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
 ❍ *Uptime:* `{}`
-❍ *Owner:* OWNER_ID
+❍ *Owner:* 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
 ➛ Try The Help Button Below To Know My Abilities ××
 """

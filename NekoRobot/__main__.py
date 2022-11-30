@@ -146,9 +146,7 @@ buttons = [
         InlineKeyboardButton(
             text="🚑 Support", url=f"https://telegram.dog/{SUPPORT_CHAT}"
         ),
-        InlineKeyboardButton(
-            text="WOF🕊️", url="https://telegram.dog/WingsOfFreedom2"
-        ),
+        
     ],
 ]
 
@@ -310,10 +308,7 @@ def start(update: Update, context: CallbackContext):
                             text="🚑 Support",
                             url=f"https://telegram.dog/{SUPPORT_CHAT}",
                         ),
-                        InlineKeyboardButton(
-                            text="WOF 🕊️",
-                            url="https://telegram.dog/WingsOfFreedom2",
-                        ),
+                        
                     ]
                 ]
             ),

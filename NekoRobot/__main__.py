@@ -119,8 +119,6 @@ NEKO_STICKERS = (
     "CAACAgUAAxkBAAOjY2kmOMuELQUQipBy8ID-jd6JDIwAAhoFAAJl6fhWYbGzZaQ8H-srBA",
     "CAACAgUAAxkBAAOmY2kmUvb_Dax0XjWGP1tleGy6ZUcAApYGAAJnHfFWsE7CjKS1xFwrBA",
 )
-EDIT_SLEEP = 1
-EDIT_TIMES = 4
 
 PM_START_TEXT = """
 ────「 [{}](https://telegra.ph/file/56f8551b0003ba1001092.jpg) 」────

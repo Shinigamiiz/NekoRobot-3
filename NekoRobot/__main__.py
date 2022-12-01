@@ -124,11 +124,11 @@ PM_START_TEXT = """
 ────「 [{}](https://telegra.ph/file/56f8551b0003ba1001092.jpg) 」────
 *Hola! {},*
 *Waakku Waakku, My Father Is Secret Agent Don't Tell Anybody Its a Secret!*
-➖➖➖➖➖➖➖➖➖➖➖➖➖
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 ❍ *Uptime:* `{}`
 ❍ *Owner:* [वेजीटा यादव](https://t.me/Vegeta_Yadav)
-➖➖➖➖➖➖➖➖➖➖➖➖➖
-➛ Try The Help Button Below To Know My Abilities ××
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+➛ Click The Help Button Below For Learning Basic Command ♡
 """
 
 buttons = [
